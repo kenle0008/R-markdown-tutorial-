@@ -1,6 +1,6 @@
 ---
 title: "How to Compile your R Code in RMarkdown"
-author: "Kenny Le"
+author: "Kenny"
 date: "12/17/2020"
 output:
   pdf_document: default
